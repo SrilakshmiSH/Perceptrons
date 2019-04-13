@@ -1,1 +1,2 @@
-## CS 554 Machine Learning Programming Assignments - Perceptrons
+## CS 554 - Machine Learning Programming Assignment
+### Perceptrons
